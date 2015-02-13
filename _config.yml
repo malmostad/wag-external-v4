@@ -1,22 +1,10 @@
-# jekyll serve --baseurl "" --watch
-name: "Web Application Guidelines, External v4"
-nav:
-  - { title: 'Introduction', url: '/' }
-  - { title: 'Getting Started', url: '/getting_started/' }
-  - { title: 'Grids &amp; Responsive Design', url: '/grids_and_responsive_design/' }
-  - { title: 'Navigation &amp; Pagination', url: '/navigation_and_pagination/' }
-  - { title: 'Typography &amp; Articles', url: '/typography_and_articles/' }
-  - { title: 'Tables', url: '/tables/' }
-  - { title: 'Colors', url: '/colors/' }
-  - { title: 'Forms, Buttons &amp; Messages', url: '/forms_buttons_and_messages/' }
-  - { title: 'Other Page Elements', url: '/other_page_elements/' }
+name: "Web Application Guidelines"
 
 markdown: kramdown
 highlighter: pygments
 exclude: []
 baseurl: /wag-external-v4
 cdn_url: //assets.malmo.se/external/v4
-# cdn_url: //www.local.malmo.se:3001/assets
 permalink: /:categories/:title
 relative_permalinks: false
 
