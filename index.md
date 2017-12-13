@@ -6,4 +6,4 @@ permalink: /
 
 # Web Application Guidelines
 
-[Go to the latest version.](http://malmostad.github.io/wag/)
+[Go to the latest version.](https://malmo.se/wag/)
