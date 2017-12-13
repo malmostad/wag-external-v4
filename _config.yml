@@ -1,7 +1,7 @@
 name: "Web Application Guidelines"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 exclude: []
 baseurl: /wag-external-v4
 cdn_url: //assets.malmo.se/external/v4
